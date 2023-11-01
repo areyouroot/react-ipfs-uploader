@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "bootstrap": "5.1.3",
-    "react": "link:../node_modules/react",
+    "react": "0.14.10",
     "react-bootstrap": "^2.0.2",
-    "react-dom": "link:../node_modules/react-dom",
+    "react-dom": "0.14.10",
     "react-ipfs-uploader": "link:..",
     "react-scripts": "link:../node_modules/react-scripts"
   },
